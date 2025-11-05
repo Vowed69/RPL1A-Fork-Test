@@ -1,0 +1,4 @@
+A = "Halo"
+B = "Semua"
+
+print(a, b)
